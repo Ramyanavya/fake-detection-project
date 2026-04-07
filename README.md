@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD
 # 🛡️ SCAM SHIELD — AI-Based Fake Detection System
 
 ## Minor Project | AI-Based Fake Detection in Online Paid & Internship Scams
@@ -86,3 +87,6 @@ Visit: **http://127.0.0.1:5000**
 - **Department:** Computer Science
 - **Topic:** AI-Based Fake Detection in Online Paid and Internship Scams
 - **Tech Stack:** Python, Flask, HTML, CSS, JavaScript
+=======
+# fake-detection-project
+>>>>>>> 3db871f9e3febbabe01915c1e3b369c5add8861a -->
